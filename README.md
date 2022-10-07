@@ -10,4 +10,5 @@ When it's time to get serious, I wield Python and R as my sword and shield, but 
 
 While we do depend on data science to do better physics, I also try to focus on how to use physics to do better data science.
 
-  [![jtfreitas's Telegram](https://img.shields.io/badge/?style=plastic&logo=telegram)](https://t.me/jtfreitaspt)
+***
+  [![jtfreitas's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram)](https://t.me/jtfreitaspt)
