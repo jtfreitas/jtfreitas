@@ -9,3 +9,5 @@ I procrastinate by spending time on CERN Open Data Portal, making my own attempt
 When it's time to get serious, I wield Python and R as my sword and shield, but at the height of the battle, Fortran95 and C++ cavalry always have my back.
 
 While we do depend on data science to do better physics, I also try to focus on how to use physics to do better data science.
+
+https://img.shields.io/badge/?logo=telegram&style=plastic
