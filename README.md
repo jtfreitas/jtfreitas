@@ -12,4 +12,4 @@ While we do depend on data science to do better physics, I also try to focus on 
 
 Write to me on Telegram!
 
-[![jtfreitaspt][ico-telegram]][https://t.me/jtfreitaspt]
+[![Chat on Telegram][ico-telegram]][https://t.me/jtfreitaspt]
